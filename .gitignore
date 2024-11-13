@@ -1,0 +1,6 @@
+#*.json (this is to ignore all json files
+kaggle.json
+*.zip
+image resized/
+train/
+Data/
